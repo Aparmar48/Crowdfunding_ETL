@@ -1,6 +1,9 @@
 # Crowdfunding_ETL
 
-Project 2
+# Project_2
+- Participant: 1. Aditya Parmar 2.Bown Peng_(Jasper)
+- The project of first and third part has been done by Jasper and rest has been finished by Aditya P, and we have uploaded seperated two jupyter notebooks as well 
+  ennds with our first name initial and last name. Thank you very much for reiewing our project work. 
 
 For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
 
